@@ -1,0 +1,44 @@
+[
+    {
+        "th": "ไข่ตุ๋น",
+        "en": "kaitoon",
+        "image": "images/character/kaitoon/base.png",
+        "message": "dsasadsa",
+        "who": "อีนางเอก"
+    },
+    {
+        "th": "ไข่น้ำ",
+        "en": "kainam",
+        "image": "images/character/kainam/base.png",
+        "message": "sadsadsa",
+        "who": "อีดุ"
+    },
+    {
+        "th": "ไข่ต้ม",
+        "en": "kaitom",
+        "image": "images/character/kaitom/base.png",
+        "message": "sadsadsa",
+        "who": "อีดี"
+    },
+    {
+        "th": "ไข่หวาน",
+        "en": "kaiwhan",
+        "image": "images/character/kaiwhan/base.png",
+        "message": "sadsadsa",
+        "who": "อีเนิร์ด"
+    },
+    {
+        "th": "ไข่เจียว",
+        "en": "kaijeaw",
+        "image": "images/character/kaijeaw/base.png",
+        "message": "ไม่ได้อยากไปด้วยสักหน่อย",
+        "who": "อีนู๋"
+    },
+    {
+        "th": "ไข่ดาว",
+        "en": "kaidao",
+        "image": "images/character/kaidao/base.png",
+        "message": "",
+        "who": "อีเย็นชา"
+    }
+]
